@@ -6,8 +6,8 @@
 
 [Deep Learning for Drug-Drug Interaction Prediction](/DDI_page)
 <p style="font-size:15px">Multiclass classification project for predicting drug-drug interactions from chemical structures using deep learning</p> 
-<img src="images/img2DDI.png?raw=true"/>(/DDI_page)
-<p style="font-size:15px"><a href="https://github.com/Tcody6/tcody6.github.io/DDI_page">Learn More</a></p>
+<a href="https://tcody6.github.io/DDI_page"><img src="images/img2DDI.png?raw=true"/></a>
+<p style="font-size:15px"><a href="https://tcody6.github.io/DDI_page">Learn More</a></p>
 ---
 [NFL Big Data Bowl 2023: Expected Protection Time](/pdf/sample_presentation.pdf)
 <p style="font-size:15px">Novel metric for evaluating offensive and deffensive linemen in the NFL using a gradient boosted survival model</p>
