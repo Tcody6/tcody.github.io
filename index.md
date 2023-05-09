@@ -21,7 +21,7 @@
 ---
 [College Basketball Transfer Portal Network Analysis](http://example.com/)
 <p style="font-size:11px">Project to vizulize, analysis, and predict college basketball player movement</p>
-<img src="images/results.png?raw=true"/>
+<img src="images/Results.png?raw=true"/>
 
 ---
 [Global Temperature Prediction and Visulization](http://example.com/)
