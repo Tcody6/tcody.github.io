@@ -1,11 +1,11 @@
 title: Timothy Cody # your name (or website title) here
 logo: "/images/IMG_5299.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Scientist with a Master's in Analytics and 3 years for experince delevering analytical reporting and data driven insights.
   <br><br>
-  Second description 
+  Skills: Python, R, SQL, Power BI, Tableau
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/timothycody/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
