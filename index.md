@@ -5,7 +5,7 @@
 ### Data Science Projects 
 
 [Deep Learning for Drug-Drug Interaction Prediction](/DDI_page)
-<p style="font-size:13px">Multiclass classification project for predicting drug-drug interactions from chemical structures using deep learning</p> 
+<p style="font-size:15px">Multiclass classification project for predicting drug-drug interactions from chemical structures using deep learning</p> 
 <img src="images/img2DDI.png?raw=true"/>
 
 ---
