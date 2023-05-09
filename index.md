@@ -16,7 +16,7 @@
 ---
 [Best Buy Sales Forecasting](http://example.com/)
 <p style="font-size:11px">Time series sales forecasting project encorprating seasonality across multiple levels of heiraarchy</p>
-<img src="images/trends.png?raw=true"/>
+<img src="images/Trends.png?raw=true"/>
 
 ---
 [College Basketball Transfer Portal Network Analysis](http://example.com/)
