@@ -1,4 +1,4 @@
-## This can be your internal website page / project page
+## Deep Learning for DDI Prediction
 
 **Project description:** Multiclass classification project for predicting drug-drug interactions from chemical structures using deep learning. 
 
@@ -13,3 +13,4 @@ The final model developed in this study achieved a training accuracy of over 90%
 In summary, this project contributes to the development of effective strategies for mitigating the risks associated with DDIs. By accurately predicting potential interactions, clinicians and drug developers can improve patient outcomes, reduce healthcare costs, and enhance the quality of life for patients. Moreover, this study highlights the importance of selecting the appropriate molecular representation for predicting DDIs and provides insights for future research in this area.
 
 <img src="images/Image1.png?raw=true"/>
+<img src="images/img2DDI.png?raw=true"/>
