@@ -7,7 +7,7 @@
 [Deep Learning for Drug-Drug Interaction Prediction](/DDI_page)
 <p style="font-size:15px">Multiclass classification project for predicting drug-drug interactions from chemical structures using deep learning</p> 
 <a href="https://tcody6.github.io/DDI_page"><img src="images/img2DDI.png?raw=true"/></a>
-<p style="font-size:15px"><a href="https://tcody6.github.io/DDI_page">Learn More</a></p>
+<p align="center" style="font-size:15px"><a href="https://tcody6.github.io/DDI_page">Learn More</a></p>
 
 ---
 [NFL Big Data Bowl 2023: Expected Protection Time](/bowl)
@@ -18,12 +18,12 @@
 [Best Buy Sales Forecasting](http://example.com/)
 <p style="font-size:15px">Time series sales forecasting project encorprating seasonality across multiple levels of heiraarchy</p>
 <img src="images/Trends.png?raw=true"/>
-
+<p align="center" style="font-size:15px"><a href="https://tcody6.github.io/bestbuy">Learn More</a></p>
 ---
 [College Basketball Transfer Portal Network Analysis](http://example.com/)
 <p style="font-size:15px">Project to vizulize, analysis, and predict college basketball player movement</p>
 <img src="images/Results.png?raw=true"/>
-
+<p align="center" style="font-size:15px"><a href="https://tcody6.github.io/portal">Learn More</a></p>
 ---
 [Global Temperature Prediction and Visulization](http://example.com/)
 <p style="font-size:15px">Global temperature prediction project and vizulization complete with D3</p>
