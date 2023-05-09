@@ -13,7 +13,7 @@
 [NFL Big Data Bowl 2023: Expected Protection Time](/bowl)
 <p style="font-size:15px">Novel metric for evaluating offensive and deffensive linemen in the NFL using a gradient boosted survival model</p>
 <a href="https://tcody6.github.io/bowl"><img src="images/PlayerEPT.png?raw=true"/></a>
-<p style="font-size:15px"><a href="https://tcody6.github.io/bowl">Learn More</a></p>
+<p align="center" style="font-size:15px"><a href="https://tcody6.github.io/bowl">Learn More</a></p>
 
 ---
 [Best Buy Sales Forecasting](http://example.com/)
