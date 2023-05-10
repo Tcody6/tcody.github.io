@@ -1,6 +1,6 @@
 <p align="right" style="font-size:15px"><a href="https://tcody6.github.io">BACK</a></p>
 
-## College Basketball Transfer Portal Network Analysis
+## Global Temperature Prediction and Visulization
 
 **Project description:** Global temperature prediction project and visualization complete with D3
 
