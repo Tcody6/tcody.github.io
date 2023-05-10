@@ -1,6 +1,6 @@
 <p align="right" style="font-size:15px"><a href="https://tcody6.github.io">Back</a></p>
 
-## Deep Learning for DDI Prediction
+## Best Buy Sales Forecasting
 
 **Project description:** Time series sales forecasting project encorprating seasonality across multiple levels of heiraarchy.
 
