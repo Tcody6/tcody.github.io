@@ -1,4 +1,4 @@
-<p align="right" style="font-size:15px"><a href="https://tcody6.github.io">Back</a></p>
+<p align="right" style="font-size:15px"><a href="https://tcody6.github.io">BACK</a></p>
 
 ## College Basketball Transfer Portal Network Analysis
 
@@ -14,4 +14,4 @@ Our finished tool (Figure \ref{toolUI}) is designed to provide users with a visu
 
 <img src="images/Temps.png?raw=true"/>
 
-<p align="right" style="font-size:15px"><a href="https://tcody6.github.io">Back</a></p>
+<p align="right" style="font-size:15px"><a href="https://tcody6.github.io">BACK</a></p>
