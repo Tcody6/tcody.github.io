@@ -1,4 +1,5 @@
-<p align="right" style="font-size:15px"><a href="https://tcody6.github.io">Back</a></p>
+<p align="right" style="font-size:15px"><a href="https://tcody6.github.io">BACK</a></p>
+
 ## Deep Learning for DDI Prediction
 
 **Project description:** Multiclass classification project for predicting drug-drug interactions from chemical structures using deep learning. 
@@ -16,4 +17,4 @@ In summary, this project contributes to the development of effective strategies 
 <img src="images/Image1.png?raw=true"/>
 <img src="images/img2DDI.png?raw=true"/>
 
-<p align="right" style="font-size:15px"><a href="https://tcody6.github.io">Back</a></p>
+<p align="right" style="font-size:15px"><a href="https://tcody6.github.io">BACK</a></p>
