@@ -1,4 +1,4 @@
-<p align="right" style="font-size:15px"><a href="https://tcody6.github.io">Back</a></p>
+<p align="right" style="font-size:15px"><a href="https://tcody6.github.io">BACK</a></p>
 
 ## College Basketball Transfer Portal Network Analysis
 
@@ -12,4 +12,4 @@ The project's analysis of the transfer network and factors influencing transfer 
 
 <img src="images/Results.png?raw=true"/>
 
-<p align="right" style="font-size:15px"><a href="https://tcody6.github.io">Back</a></p>
+<p align="right" style="font-size:15px"><a href="https://tcody6.github.io">BACK</a></p>
