@@ -1,4 +1,4 @@
-<p align="right" style="font-size:15px"><a href="https://tcody6.github.io">Back</a></p>
+<p align="right" style="font-size:15px"><a href="https://tcody6.github.io">BACK</a></p>
 
 ## Best Buy Sales Forecasting
 
@@ -12,4 +12,4 @@ To achieve our objective, we tested multiple models and ultimately selected XGBo
 <img src="images/FI.jpg?raw=true"/>
 <img src="images/Trends.png?raw=true"/>
 
-<p align="right" style="font-size:15px"><a href="https://tcody6.github.io">Back</a></p>
+<p align="right" style="font-size:15px"><a href="https://tcody6.github.io">BACK</a></p>
