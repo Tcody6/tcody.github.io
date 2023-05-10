@@ -2,7 +2,7 @@
 
 ## Best Buy Sales Forecasting
 
-**Project description:** Time series sales forecasting project encorprating seasonality across multiple levels of heiraarchy.
+**Project description:** Time series sales forecasting project incorporating seasonality across multiple levels of hierarchy.
 
 **Details:** During the Best Buy MSA Project Week, I was part of a team that worked on forecasting slow-selling SKUs using time series analysis and machine learning techniques. Our main goal was to create a final dataset for model training by researching and sourcing external data for reuse and inclusion in the model. We also identified trends and seasonality patterns in the data to improve the model accuracy.
 
