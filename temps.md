@@ -8,6 +8,7 @@
 
 A number of different models were tested before final selection. We selected the Random Forest model as our final method for predicting temperature changes due to its superior performance, as demonstrated by the lowest Mean Squared Error (MSE) among the models tested. Despite its accuracy, however, building the Random Forest model proved to be a computationally-intensive process, requiring significant processing time to complete. To mitigate this challenge, we chose to perform all of our temperature predictions offline, before loading the results into CSV files for display in our visual interface.
 
+
 <img src="images/models.png?raw=true"/>
 
 Our finished tool is designed to provide users with a visually-engaging and informative experience that highlights the impacts of climate change in different regions and cities. The interface is built using d3.js, a powerful JavaScript library for data visualization that enables us to create interactive and dynamic charts and graphs. In addition to the map, our interface also features several other interactive elements that allow users to explore temperature changes in more detail. A line chart displays the temperature changes over time for the selected city. Users can also access detailed information about specific cities, including historical temperature data and projections for the future. Overall, our interface is designed to be both accessible and informative, allowing users to gain a deeper understanding of the effects of climate change on different regions and cities.
