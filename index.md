@@ -30,6 +30,6 @@
 ---
 [Global Temperature Prediction and Visulization](/temps)
 <p style="font-size:15px">Global temperature prediction project and vizulization complete with D3</p>
-<a href="https://tcody6.github.io/temps"><img src="images/temps.png?raw=true"/></a>
+<a href="https://tcody6.github.io/temps"><img src="images/Temps.png?raw=true"/></a>
 <p align="center" style="font-size:15px"><a href="https://tcody6.github.io/temps">Learn More</a></p>
 ---
