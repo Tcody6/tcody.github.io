@@ -1,4 +1,4 @@
-<p align="right" style="font-size:15px"><a href="https://tcody6.github.io">Back</a></p>
+<p align="right" style="font-size:15px"><a href="https://tcody6.github.io">BACK</a></p>
 
 ## NFL Big Data Bowl 2023: Expected Protection Time
 
@@ -11,4 +11,4 @@ Data preperation for this project was very involved. Data provided by the NFL wa
 <img src="images/PlayerEPT.png?raw=true"/>
 <img src="images/TeamEPT.png?raw=true"/>
 
-<p align="right" style="font-size:15px"><a href="https://tcody6.github.io">Back</a></p>
+<p align="right" style="font-size:15px"><a href="https://tcody6.github.io">BACK</a></p>
