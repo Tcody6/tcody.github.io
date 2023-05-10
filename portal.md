@@ -2,7 +2,7 @@
 
 ## College Basketball Transfer Portal Network Analysis
 
-**Project description:** Project to vizulize, analysis, and predict college basketball player movement
+**Project description:** Project to visualize, analysis, and predict college basketball player movement
 
 **Details:** The project focuses on analyzing the patterns and dynamics of player movements within the college basketball transfer portal using network analysis techniques. The authors aim to visualize the transfer network to identify the connections between different schools and conferences. The significance of the project lies in its potential to provide a better understanding of the transfer portal and its impact on college basketball, allowing for coaches to better plan for their future teams and target players on other teams.
 
