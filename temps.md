@@ -12,6 +12,6 @@ A number of different models were tested before final selection. We selected the
 
 Our finished tool (Figure \ref{toolUI}) is designed to provide users with a visually-engaging and informative experience that highlights the impacts of climate change in different regions and cities. The interface is built using d3.js, a powerful JavaScript library for data visualization that enables us to create interactive and dynamic charts and graphs. In addition to the map, our interface also features several other interactive elements that allow users to explore temperature changes in more detail. A line chart displays the temperature changes over time for the selected city. Users can also access detailed information about specific cities, including historical temperature data and projections for the future. Overall, our interface is designed to be both accessible and informative, allowing users to gain a deeper understanding of the effects of climate change on different regions and cities.
 
-<img src="images/temps.png?raw=true"/>
+<img src="images/Temps.png?raw=true"/>
 
 <p align="right" style="font-size:15px"><a href="https://tcody6.github.io">Back</a></p>
