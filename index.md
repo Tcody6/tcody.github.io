@@ -16,20 +16,20 @@
 <p align="center" style="font-size:15px"><a href="https://tcody6.github.io/bowl">Learn More</a></p>
 
 ---
-[Best Buy Sales Forecasting](http://example.com/)
+[Best Buy Sales Forecasting](/bestbuy)
 <p style="font-size:15px">Time series sales forecasting project encorprating seasonality across multiple levels of heiraarchy</p>
-<img src="images/Trends.png?raw=true"/>
+<a href="https://tcody6.github.io/bestbuy"><img src="images/Trends.png?raw=true"/></a>
 <p align="center" style="font-size:15px"><a href="https://tcody6.github.io/bestbuy">Learn More</a></p>
 
 ---
-[College Basketball Transfer Portal Network Analysis](http://example.com/)
+[College Basketball Transfer Portal Network Analysis](/portal)
 <p style="font-size:15px">Project to vizulize, analysis, and predict college basketball player movement</p>
-<img src="images/Results.png?raw=true"/>
+<a href="https://tcody6.github.io/portal"><img src="images/Results.png?raw=true"/></a>
 <p align="center" style="font-size:15px"><a href="https://tcody6.github.io/portal">Learn More</a></p>
 
 ---
-[Global Temperature Prediction and Visulization](http://example.com/)
+[Global Temperature Prediction and Visulization](/temps)
 <p style="font-size:15px">Global temperature prediction project and vizulization complete with D3</p>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+<a href="https://tcody6.github.io/temps"><img src="images/temps.png?raw=true"/></a>
+<p align="center" style="font-size:15px"><a href="https://tcody6.github.io/temps">Learn More</a></p>
 ---
