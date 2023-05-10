@@ -1,6 +1,6 @@
 <p align="right" style="font-size:15px"><a href="https://tcody6.github.io">BACK</a></p>
 
-## Global Temperature Prediction and Visulization
+## Global Temperature Prediction and Visualization
 
 **Project description:** Global temperature prediction project and visualization complete with D3
 
